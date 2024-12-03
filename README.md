@@ -1,7 +1,33 @@
-![image](https://github.com/user-attachments/assets/1fd33396-acc8-47cf-9732-39a8ff4cdcfe)
+<h1 align="center">Hey there, Ameen Ansari here.</h1>
+<h3 align="center">Junior Developer</h3>
 
-# 💫 About Me:
-- Creative developer passionate about problem-solving.  <br>- Skilled in Java, JavaScript, and web development.  <br>- Exploring AIML and innovative tech solutions.  <br>- Enthusiastic about startups and SaaS projects.  <br>- Always learning and building impactful tools.  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/60/ee/2c/60ee2c40db75cc99419e2eced7d3ae91.gif" alt="PC GIF" />
+</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=DreamScopee&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <a href="https://twitter.com/thekidwithin" target="blank"><img src="https://img.shields.io/twitter/follow/thekidwithin?logo=twitter&style=for-the-badge" alt="thekidwithin" /></a> </p>
+
+- 🔭 Currently working on an app called **CodeGravity**
+
+- 🌱 Learning **DSA,Full-Stack, and more to sharpen my skills**
+
+- 💬 Ask me about my projects on **Discord**
+
+- 📫 How to reach me **12ameenansari34@gmail.com**
+
+- ⚡ Fun fact **"I use 'git commit -m' to remember what I did last week."**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/thekidwithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekidwithin" height="30" width="40" /></a>
+<a href="https://twitter.com/thekidwithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekidwithin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thecodewithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecodewithin" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/724125761748860995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/724125761748860995" height="30" width="40" /></a>
+</p>
+
 
 
 ## 🌐 Socials:
@@ -21,6 +47,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DreamScopee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DreamScopee&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
