@@ -1,3 +1,7 @@
+https://i.pinimg.com/originals/70/20/de/7020de98539b9b37dfc762b0c0d0d738.gif
+
+
+
 # 💫 About Me:
 - Creative developer passionate about problem-solving.  <br>- Skilled in Java, JavaScript, and web development.  <br>- Exploring AIML and innovative tech solutions.  <br>- Enthusiastic about startups and SaaS projects.  <br>- Always learning and building impactful tools.  
 
